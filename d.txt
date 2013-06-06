@@ -1,0 +1,11 @@
+A planning application to make you plan the events using notes. You can add the color notes and that helped us for you, and sort out those notes on a white board and pin & stick them.
+	
+Features:
+•	Notes types of color notes.
+•	Choose color form the side bar.
+•	Helper Notes.
+•	Delete the Notes.
+•	Edit the notes.
+•	Pin & Stick them on white board.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
